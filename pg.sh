@@ -2,8 +2,8 @@
 
 # Password Generator
 
-echo "This is a Password Generator!"
-echo "Please enter the length of password you want to generate:"
+echo "Password Generator v1.0"
+echo "Enter the length of the password"
 read PASS_LENGTH
 
 for p in $(seq 1);
